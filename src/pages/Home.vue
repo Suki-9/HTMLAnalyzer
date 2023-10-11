@@ -4,5 +4,8 @@
 
 
 <template>
-
+  
 </template>
+
+<style module lang="ts">
+</style>
